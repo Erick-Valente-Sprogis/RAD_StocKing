@@ -125,16 +125,7 @@ A aplicação estará disponível em `http://127.0.0.1:5000`.
 
 - O primeiro passo é **cadastrar um usuário** marcando a caixa de "Conceder permissão de administrador".
 - Em seguida, faça login com este usuário para acessar o dashboard e gerenciar os produtos.
-
-**6. Execute o Script de Análise de Dados:**
-
-- Após cadastrar alguns produtos de teste na aplicação web, execute o script de análise no terminal:
-
-```bash
-python analise.py
-```
-
-- Os gráficos e o arquivo `.csv` serão salvos na pasta `/graficos`.
+- Os gráficos e o arquivo `.csv` serão salvos na pasta `/relatorios`.
 
 ---
 
